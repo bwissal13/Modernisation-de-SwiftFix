@@ -1,0 +1,189 @@
+*{
+    /* width: 1440px;
+    height: 1049px; */
+    flex-shrink: 0;
+    font-size: 10px;
+    
+}
+
+.nav{
+/* width: 1110px;
+height: 100px; */
+padding: 3rem;
+flex-shrink: 0;
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin-left: 7.5rem;
+}
+
+.nav ul{
+ display: flex;
+justify-content: center;
+align-items: center;
+gap: 5.6rem;
+padding: 1.2rem;
+}
+.list-item .list-link{
+ color: var(--neutral-grey-7, #2D2F30);
+font-family: Poppins;
+font-size: 1.2rem;
+font-style: normal;
+font-weight: 400;
+line-height: 2.3rem; 
+letter-spacing: 0.15rem;
+}
+.nav svg{
+width:2.4rem;
+height: 2.4rem;
+flex-shrink: 0;
+}
+.logo span{
+color: #ffffff;
+font-family: Poppins;
+font-size: 2rem;
+font-style: normal;
+font-weight: 700;
+line-height: 1.2rem; 
+}
+#circle {
+background: #094B72;
+border-radius: 50%;
+width: 3.6rem;
+height: 3.6rem;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.nav-logo a{
+color: var(--neutral-grey-7, #2D2F30);
+font-family: Poppins;
+font-size: 2rem;
+font-style: normal;
+font-weight: 700;
+line-height: 2.3rem; 
+letter-spacing: 0.15rem;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+  
+}
+.logo a {
+    padding-top: 0.3em;
+} 
+.home-hero-info h1{
+ color: #094B72;
+font-family: Playfair Display;
+font-size:9rem;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; 
+letter-spacing: 0.18rem;
+margin-bottom: 0;
+width: 60rem;
+}
+.home-hero-info p{
+color: var(--neutral-grey-6, #4F4F4F);
+font-family: Plus Jakarta Sans;
+font-size: 2.4rem;
+font-style: normal;
+font-weight: 500;
+line-height: 158%; 
+letter-spacing: 0.05rem;
+margin-top: 0;
+display: block;
+width: 40rem;
+}
+.home-hero{
+    display: flex;   
+    margin-left: 22rem;
+}
+button{
+width: 16rem;
+height: 6rem;
+flex-shrink: 0;
+border-radius: 0.8rem;
+background: #094B72;
+color: var(--neutral-grey-1, #F9F8F9);
+font-family: Plus Jakarta Sans;
+font-size: 1.4rem;
+font-style: normal;
+font-weight: 700;
+line-height: 140.5%; 
+letter-spacing: 0.128rem;
+}
+.home-hero-info-companies span{
+ color: var(--neutral-grey-5, #8B8C8C);
+font-family: Plus Jakarta Sans;
+font-size: 2.4rem;
+font-style: normal;
+font-weight: 400;
+line-height: 140.5%; 
+letter-spacing: 0.088rem;
+}
+.home-hero-image{
+    position: relative;
+}
+.home-hero-image .groupe-of-cercle{ 
+    position: absolute;
+    z-index: 1;
+    margin-top: -114px;
+}
+.home-hero-image .Abdellah-image{
+    position: absolute;
+    z-index: 2;
+    right: -40rem;
+}
+.carte{
+ width: 38.2rem;
+height: 11.4rem;
+flex-shrink: 0;
+border-radius: 1rem;
+background: #ffffff;
+left: 110rem;
+position: absolute;
+bottom: -40rem;
+z-index: 3;
+}
+.name{
+    color: #33475B;
+text-align: center;
+font-family: Plus Jakarta Sans;
+font-size: 2.4rem;
+font-style: normal;
+font-weight: 700;
+line-height: 3.6rem; 
+display: block;
+}
+.role{
+color: #87898C;
+text-align: center;
+font-family: Plus Jakarta Sans;
+font-size: 1.6rem;
+font-style: normal;
+font-weight: 500;
+line-height: 3.6rem;
+display: block;
+}
+img[src*="Wobz"]{
+ width: 122px;
+height: 54.9px;
+flex-shrink: 0;
+}
+img[src*="Capgemini"]{
+ width: 122px;
+height: 28.517px;
+flex-shrink: 0;   
+}
+img[src*="Cegedim"]{
+width: 122px;
+height: 26.973px;
+flex-shrink: 0;
+}
+img[src*="Inetum"]{
+ width: 122px;
+height: 30.233px;
+flex-shrink: 0;
+}
