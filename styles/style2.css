@@ -1092,3 +1092,7 @@ line-height: 24px; /* 171.429% */
     .services{
         margin-bottom: 20rem;
     }
+    iframe{
+        width:600px;
+        height:600px;
+    }
