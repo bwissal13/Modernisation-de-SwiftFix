@@ -114,7 +114,7 @@ letter-spacing: 1.5px;
 } 
 .home-hero-info h1{
  color: #094B72;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size:9rem;
 font-style: normal;
 font-weight: 700;
@@ -125,7 +125,7 @@ width: 60rem;
 }
 .home-hero-info p{
 color: var(--neutral-grey-6, #4F4F4F);
-font-family: Plus Jakarta Sans;
+font-family: "Plus Jakarta Sans";
 font-size: 2.4rem;
 font-style: normal;
 font-weight: 500;
@@ -146,7 +146,7 @@ flex-shrink: 0;
 border-radius: 0.8rem;
 background: #094B72;
 color: var(--neutral-grey-1, #F9F8F9);
-font-family: Plus Jakarta Sans;
+font-family: "Plus Jakarta Sans";
 font-size: 1.4rem;
 font-style: normal;
 font-weight: 700;
@@ -155,7 +155,7 @@ letter-spacing: 0.128rem;
 }
 .home-hero-info-companies span{
  color: var(--neutral-grey-5, #8B8C8C);
-font-family: Plus Jakarta Sans;
+font-family: "Plus Jakarta Sans";
 font-size: 2.4rem;
 font-style: normal;
 font-weight: 400;
@@ -190,7 +190,7 @@ margin-top: 23rem;
 .name{
 color: #33475B;
 text-align: center;
-font-family: Plus Jakarta Sans;
+font-family: "Plus Jakarta Sans";
 font-size: 2.4rem;
 font-style: normal;
 font-weight: 700;
@@ -201,7 +201,7 @@ margin: 1.5rem;
 .role{
 color: #87898C;
 text-align: center;
-font-family: Plus Jakarta Sans;
+font-family: "Plus Jakarta Sans";
 font-size: 1.6rem;
 font-style: normal;
 font-weight: 500;
@@ -261,7 +261,7 @@ margin-top: 15rem;
 }
 .title h2{
 color: var(--neutral-grey-7, #2D2F30);
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 4.8rem;
 font-style: normal;
 font-weight: 700;
@@ -271,7 +271,7 @@ letter-spacing: 0.0323rem;
 .title p{
 color: var(--neutral-grey-5, #8B8C8C);
 font-feature-settings: 'clig' off, 'liga' off;
-font-family: Poppins;
+font-family: "Poppins";
 font-size: 2rem;
 font-style: normal;
 font-weight: 400;
@@ -294,7 +294,7 @@ gap:5rem;
 .Our-feature h3{
 width: 18.1rem;
 color: var(--Text, #363940);
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 2.2rem;
 font-style: normal;
 font-weight: 700;
@@ -306,7 +306,7 @@ margin: 0px 0px 2px;
 width: 21rem;
 color: var(--neutral-grey-5, #8B8C8C);
 font-feature-settings: 'clig' off, 'liga' off;
-font-family: Plus Jakarta Sans;
+font-family: "Plus Jakarta Sans";
 font-size: 1.4rem;
 font-style: normal;
 font-weight: 400;
@@ -342,7 +342,7 @@ margin: 1rem;
 color: var(--default-white, #FFF);
 text-align: center;
 font-feature-settings: 'salt' on, 'liga' off;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 4.8rem;
 font-style: normal;
 font-weight: 900;
@@ -357,7 +357,7 @@ text-align: center;
 display: flex;
 flex-direction: column;
 font-feature-settings: 'salt' on, 'liga' off;
-font-family: Poppins;
+font-family: "Poppins";
 font-size: 1.8rem;
 font-style: normal;
 font-weight: 400;
@@ -369,7 +369,7 @@ align-self: stretch;
  color: var(--default-white, #FFF);
 text-align: center;
 font-feature-settings: 'salt' on, 'liga' off;
-font-family: Poppins;
+font-family: "Poppins";
 font-size: 4.8rem;
 font-style: normal;
 font-weight: 800;
@@ -380,7 +380,7 @@ display: block;
 color: var(--default-white, #FFF);
 text-align: center;
 font-feature-settings: 'salt' on, 'liga' off;
-font-family: Poppins;
+font-family: "Poppins";
 font-size: 1.8rem;
 font-style: normal;
 font-weight: 400;
@@ -408,7 +408,7 @@ letter-spacing: 0.0054rem;
  color: var(--neutral-grey-7, #2D2F30);
 text-align: center;
 font-feature-settings: 'salt' on, 'liga' off;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 4.8rem;
 font-style: normal;
 font-weight: 700;
@@ -420,7 +420,6 @@ padding: 6rem;
 .d{
  background-color: #ffffff;
  border-radius: 10px;
-box-shadow: #C4C4C4;
 box-shadow: 0px 18px 58px 16px rgba(0, 0, 0, 0.06);
 padding: 10px 65px;
 }
@@ -428,7 +427,7 @@ padding: 10px 65px;
 color: var(--neutral-grey-8, #151617);
 text-align: center;
 font-feature-settings: 'salt' on, 'liga' off;
-font-family: Poppins;
+font-family: "Poppins";
 font-size: 18px;
 font-style: normal;
 font-weight: 500;
@@ -438,7 +437,7 @@ line-height: 28px; /* 155.556% */
     color: var(--neutral-grey-6, #4F4F4F);
     text-align: center;
     font-feature-settings: 'salt' on, 'liga' off;
-    font-family: Poppins;
+    font-family: "Poppins";
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -466,7 +465,7 @@ height: 220px;
 font-feature-settings: 'salt' on, 'liga' off;
 
 /* Subtitle / Subtitle 1 */
-font-family: Inter;
+font-family: "Inter";
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -477,7 +476,7 @@ line-height: 28px; /* 155.556% */
 font-feature-settings: 'salt' on, 'liga' off;
 
 /* Body / Body 2 */
-font-family: Inter;
+font-family: "Inter";
 font-size: 14px;
 font-style: normal;
 font-weight: 400;
@@ -503,7 +502,7 @@ margin: -12rem 0rem;
     color: var(--neutral-grey-7, #2D2F30);
    
     font-feature-settings: 'salt' on, 'liga' off;
-    font-family: Playfair Display;
+    font-family: "Playfair Display";
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -512,7 +511,7 @@ margin: -12rem 0rem;
 }
 .CTA p{
     color: var(--neutral-grey-6, #4F4F4F);
-font-family: Poppins;
+font-family: "Poppins";
 font-size: 24px;
 font-style: normal;
 font-weight: 400;
@@ -523,7 +522,7 @@ flex-shrink: 0;
 }
 .CTA button{
  color: var(--neutral-grey-1, #F9F8F9);
-font-family: Poppins;
+font-family: "Poppins";
 font-size: 22px;
 font-style: normal;
 font-weight: 600;
@@ -546,7 +545,7 @@ footer{
 font-feature-settings: 'salt' on, 'liga' off;
 
 /* Heading / H6 */
-font-family: Inter;
+font-family: "Inter";
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
@@ -557,7 +556,7 @@ ul.link-column--item{
 color: var(--text-gray-200, #EEEFF4);
 font-feature-settings: 'salt' on, 'liga' off;
 /* Body / Body 1 */
-font-family: Inter;
+font-family: "Inter";
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -566,7 +565,7 @@ margin: 0;
 }
 .contact h1{
     color: #094B72;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 90px;
 font-style: normal;
 font-weight: 700;
@@ -605,7 +604,7 @@ form button{
 height: 62px;
 flex-shrink: 0;
 color: var(--neutral-grey-1, #F9F8F9);
-font-family: Plus Jakarta Sans;
+font-family: "Plus Jakarta Sans";
 font-size: 16px;
 font-style: normal;
 font-weight: 700;
@@ -620,7 +619,7 @@ margin: 6rem;
 
 .services h1{
  color: #094B72;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 90px;
 font-style: normal;
 font-weight: 700;
@@ -652,7 +651,7 @@ flex-shrink: 0;
 
    .services-card ul{
     color: #2D2F30;
-    font-family: Playfair Display;
+    font-family: "Playfair Display";
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
@@ -663,7 +662,7 @@ flex-shrink: 0;
    }
  .services-card h3{
     color: #000;
-    font-family: Playfair Display;
+    font-family: "Playfair Display";
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
@@ -690,7 +689,7 @@ flex-shrink: 0;
     }
     .about-text h1{
  color: #094B72;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 90px;
 font-style: normal;
 font-weight: 700;
@@ -699,7 +698,7 @@ letter-spacing: 1.8px;
     }
     .about-text p{
 color: var(--neutral-grey-6, #4F4F4F);
-font-family: Plus Jakarta Sans;
+font-family: "Plus Jakarta Sans";
 font-size: 24px;
 font-style: normal;
 font-weight: 500;
@@ -708,7 +707,7 @@ letter-spacing: 0.5px;
     }
 .about-text button{
     color: var(--neutral-grey-1, #F9F8F9);
-font-family: Plus Jakarta Sans;
+font-family: "Plus Jakarta Sans";
 font-size: 16px;
 font-style: normal;
 font-weight: 700;
@@ -725,7 +724,7 @@ letter-spacing: 1.28px;
 }
 .readMore-nav span{
     color: #0F2137;
-font-family: DM Sans;
+font-family: "DM Sans";
 font-size: 20px;
 font-style: normal;
 font-weight: 700;
@@ -759,7 +758,7 @@ align-items: center; */
  } 
  .circle span{
     color: #000;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 24px;
 font-style: normal;
 font-weight: 700;
@@ -891,7 +890,7 @@ flex-shrink: 0;
   }
   .whyUs ul{
       color: #2D2F30;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 12px;
 font-style: normal;
 font-weight: 400;
@@ -950,7 +949,7 @@ letter-spacing: 0.24px;
 }
 .hr-label{
     color: #000;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 20px;
 font-style: normal;
 font-weight: 400;
@@ -960,7 +959,7 @@ letter-spacing: 0.4px;
 .our-team h2{
     color: #094B72;
 text-align: center;
-font-family: Playfair Display;
+font-family: "Playfair Display";
 font-size: 90px;
 font-style: normal;
 font-weight: 700;
@@ -969,7 +968,7 @@ letter-spacing: 1.8px;
 }
 .our-team .name{
     color: #0F2137;
-font-family: DM Sans;
+font-family: "DM Sans";
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
@@ -981,7 +980,7 @@ text-align: start;
 }
 .our-team .role{
   color: #7589A1;
-font-family: DM Sans;
+font-family: "DM Sans";
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
@@ -1066,7 +1065,7 @@ text-align: start;
 font-feature-settings: 'salt' on, 'liga' off;
 
 /* Body / Body 2 */
-font-family: Inter;
+font-family: "Inter";
 font-size: 14px;
 font-style: normal;
 font-weight: 400;
