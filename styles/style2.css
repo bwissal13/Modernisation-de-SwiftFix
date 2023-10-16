@@ -698,6 +698,22 @@ font-style: normal;
 font-weight: 700;
 line-height: 30px; /* 150% */
 }
+.readMore-hr1{
+    border-top: 3px solid #094B72;
+    border-radius: 5px;
+    width: 273.34px;
+height: 2.529px;
+position: absolute;
+top: 1024px;
+left: 160px;
+}
+/* .readMore-hr2{
+    border-top: 3px solid #094B72;
+    border-radius: 5px;
+ width: 273.34px;
+height: 2.529px;
+position: absolute;
+} */
  .circle{
 border-radius: 50%;
 width: 38.6rem;
@@ -707,7 +723,21 @@ background: rgba(110, 168, 255, 0.10);
 /* display: flex;
 justify-content: center;
 align-items: center; */
- }  
+ } 
+ .circle span{
+    color: #000;
+font-family: Playfair Display;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 28.8px */
+letter-spacing: 0.48px;
+position: absolute;
+top: 1317px;
+left: 186px;
+width: 241px;
+}
+ 
  .circle1{
     border-radius: 50%;
     background: #094B72;
@@ -718,6 +748,14 @@ position: absolute;
 top: 1136px;
 left: 336px;
  } 
+ .circle1 img{
+    width: 71.19px;
+height: 70.246px;
+
+position: absolute;
+top: 12px;
+left: 16px;
+ }
  .circle2{
     border-radius: 50%;
     background: #094B72;
@@ -728,6 +766,13 @@ position: absolute;
 top: 1236px;
 left: 455px;
  } 
+ .circle2 img{
+    width: 81.249px;
+height: 80.172px;
+position: absolute;
+top: 16px;
+left: 18px;
+ }
  .circle3{
 border-radius: 50%;
  background: #094B72;
@@ -737,6 +782,14 @@ height: 10.3rem;
 position: absolute;
 top: 1497px;
 left: 336px;
+ }
+ .circle3 img{
+    width: 66px;
+    height: 66px;
+    position: absolute;
+    top: 20px;
+    left: 18px;
+ 
  }
  .circle4{
     border-radius: 50%;
@@ -748,6 +801,13 @@ height: 10.3rem;
 position: absolute;
 top: 1393px;
 left: 448px;
+ }
+ .circle4 img{
+width: 79px;
+height: 79px;
+position: absolute;
+top: 16px;
+left: 12px;
  }
  .hr1 hr{
  border-top: 3px solid #094B72;
@@ -806,7 +866,140 @@ line-height: 120%; /* 14.4px */
 letter-spacing: 0.24px;
   }
  .list1{
+    
+   width:210px ;
     position: absolute;
     top: 1185px;
     left: 880px;
+}
+.hr-label1{
+    
+    width:210px ;
+     position: absolute;
+     top: 1168px;
+     left: 658px;
+ }
+.list2{
+   width:190px ;
+    position: absolute;
+    top: 1290px;
+    left: 990px;
+}
+.hr-label2{
+    width:190px ;
+     position: absolute;
+     top: 1273px;
+     left: 771px;
+ }
+.list3{
+    position: absolute;
+    top: 1432px;
+    left: 990px;
+}
+.hr-label3{
+    position: absolute;
+    top: 1415px;
+    left: 746px;
+}
+.list4{
+
+    width: 200px;
+    position: absolute;
+    top: 1551px;
+    left: 880px;
+}
+.hr-label4{
+
+    width: 200px;
+    position: absolute;
+    top: 1532px;
+    left: 644px;
+}
+.hr-label{
+    color: #000;
+font-family: Playfair Display;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 24px */
+letter-spacing: 0.4px;
+}
+.our-team h2{
+    color: #094B72;
+text-align: center;
+font-family: Playfair Display;
+font-size: 90px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 108px */
+letter-spacing: 1.8px;
+}
+.our-team .name{
+    color: #0F2137;
+font-family: DM Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 50px; /* 250% */
+letter-spacing: -0.2px;
+text-align: start;
+    margin: 0;
+    height: 26px;
+}
+.our-team .role{
+  color: #7589A1;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 50px; /* 312.5% */
+letter-spacing: -0.2px;  
+margin: 0;
+text-align: start;
+}
+
+.our-teamMembers{
+    display: flex;
+    margin: 0px 239px 0px 430px;
+    gap: 6rem;
+}
+.our-team1{
+    display: flex;
+    flex-direction: column;
+}
+.our-team2{
+    display: flex;
+    flex-direction: column;
+}
+.our-team3{
+    display: flex;
+    flex-direction: column;
+}
+.our-team1 img{
+    width: 200px;
+    height: 200px;
+    background-color: #094B72;
+}
+.our-team2 img{
+    position: absolute;
+    left: 655px;
+    width: 284px;
+    height: 210px;
+}
+.our-team2--bg{
+    width: 200px;
+    height: 200px;
+    background-color: #094B72;
+}
+
+.our-team3 img{
+    position: absolute;
+    left: 923px;
+    width: 284px;
+    height: 210px;
+}
+.our-team3--bg{
+    width: 200px;
+    height: 200px;
+    background-color: #094B72;
 }
