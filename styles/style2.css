@@ -167,12 +167,15 @@ letter-spacing: 0.088rem;
 }
 .home-hero-image .groupe-of-cercle{ 
     position: absolute;
+    left: -116px;
     z-index: 1;
-    margin-top: -114px;
+    margin-top: -34px;
 }
 .home-hero-image .Abdellah-image{
     position: absolute;
     z-index: 2;
+    position: absolute;
+    /* left: -362px; */
     right: -40rem;
 }
 .carte{
@@ -181,11 +184,11 @@ height: 11.4rem;
 flex-shrink: 0;
 border-radius: 1rem;
 background: #ffffff;
-left: 110rem;
+left: 93rem;
 position: absolute;
 z-index: 3;
 box-shadow: 4px 4px 8px rgba(0,0,0,0.5);
-margin-top: 23rem;
+margin-top: 78rem;
 }
 .name{
 color: #33475B;
