@@ -45,12 +45,12 @@ height: 2.4rem;
 flex-shrink: 0;
 }
 .logo span{
-color: #ffffff;
 font-family: Poppins;
 font-size: 2rem;
 font-style: normal;
 font-weight: 700;
 line-height: 1.2rem; 
+color: #ffffff;
 }
 #circle {
 background: #094B72;
@@ -70,14 +70,47 @@ font-weight: 700;
 line-height: 2.3rem; 
 letter-spacing: 0.15rem;
 }
+.nav-swiftfix{
+    color: var(--neutral-grey-7, #2D2F30);
+font-family: Poppins;
+font-size: 2rem;
+font-style: normal;
+font-weight: 700;
+line-height: 2.3rem; 
+letter-spacing: 0.15rem;
+}
 .logo{
+    position: relative;
     display: flex;
     justify-content: center;
     gap: 1em;
   
 }
+#logo-footer{
+    position: absolute;
+    top: 117px;
+    left: 200px;
+    position: absolute;
+ color: var(--neutral-grey-1, #F9F8F9);
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 23px; /* 104.545% */
+letter-spacing: 1.5px;
+
+}
 .logo a {
-    padding-top: 0.3em;
+    position: absolute;
+    top: 8px;
+    left: 52px;
+    position: absolute;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 23px; /* 104.545% */
+letter-spacing: 1.5px;
 } 
 .home-hero-info h1{
  color: #094B72;
@@ -1003,3 +1036,59 @@ text-align: start;
     height: 200px;
     background-color: #094B72;
 }
+.footer--circle{
+    background-color: #FFF;
+    border-radius: 50%;
+    width:6rem;
+    height:6rem;
+    position: relative;
+    top: 97px;
+    left: -605px;
+}
+#footer--S{
+    position: absolute;
+    z-index: 2;
+    top: 25px;
+    left: 25px;
+    color:#094B72;
+    
+}
+.sub-footer{
+    background: #004D7B;
+    display: flex;
+    justify-content: space-between;
+    height: 4rem;
+    padding: 2rem;
+
+}
+.sub-footer span{
+   color: var(--text-gray-300, #D9DBE1);
+font-feature-settings: 'salt' on, 'liga' off;
+
+/* Body / Body 2 */
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+}
+
+
+.sub-footer svg{
+    margin: 0 1rem;
+}
+.readMore-hr2 hr{
+   border-top: 3px solid #094B72;
+   border-radius: 5px;
+   width: 273.34px;
+   height: 2.529px;
+   position: absolute;
+   top: 1767px;
+   left: 490px;
+    }
+    .our-teamMembers{
+        margin-bottom: 11rem;
+    }
+    .services{
+        margin-bottom: 20rem;
+    }
